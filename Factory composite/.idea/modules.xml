@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Atividade.iml" filepath="$PROJECT_DIR$/Atividade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Factory composite.iml" filepath="$PROJECT_DIR$/Factory composite.iml" />
     </modules>
   </component>
 </project>
